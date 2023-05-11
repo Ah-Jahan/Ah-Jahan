@@ -30,8 +30,8 @@ I am working with different frameworks.
   <image src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
-###Sozialmedia link:
- <link src="https://www.linkedin.com/feed/"/>
+### Sozialmedia link:
+ <img src="https://www.linkedin.com/feed/" />
 
 ### Contact me:
 
