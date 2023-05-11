@@ -31,7 +31,7 @@ I am working with different frameworks.
 </p>
 
 ### Sozialmedia link:
- <img src="https://www.linkedin.com/feed/" />
+    <a href"https://www.linkedin.com/feed/">Linkedln</a>
 
 ### Contact me:
 
