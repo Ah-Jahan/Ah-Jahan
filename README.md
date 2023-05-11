@@ -30,16 +30,11 @@ I am working with different frameworks.
   <image src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
-
+###Sozialmedia link:
+ <link src="https://www.linkedin.com/feed/"/>
 
 ### Contact me:
 
-- Personal website: https://.../.
+- 
 - Email: [![Email](https://img.shields.io/badge/ah.jahangiry@gmail.com-6001D2?style=flat-square&logo=gmail!&logoColor=white)](mailto:ah.jahangiry@gmail.com)
 
-### Github Stats:
-
-<p>
-  <img src="">
-  <img src="">
-</p>
