@@ -8,7 +8,7 @@ Hi there, I'm **Ahmad Jahangiry**, a **Frontend Web Developer**.
 ### Talking about Personal Stuffs:
 
 - 👨🏽‍💻 I'm currently doing a Web Development Bootcamp at [Digital Career Institute](https://digitalcareerinstitute.org/); 
-- 🌱 I'm currently learning **Html , css , Javascript, React, Material UI**
+- 🌱 I'm currently learning **Html , Css , Javascript, React, Material UI**
 
 
 #### <h3 align="left">Languages and Tools:</h3>
@@ -23,7 +23,7 @@ Hi there, I'm **Ahmad Jahangiry**, a **Frontend Web Developer**.
   <image src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">
 </p>
 
-### Sozialmedia link:
+### Sozialmedia :
   
   <a href="https://www.linkedin.com">
     <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="LinkedIn" width="30" height="30">
@@ -33,6 +33,5 @@ Hi there, I'm **Ahmad Jahangiry**, a **Frontend Web Developer**.
 
 ### Contact me:
 
-- 
 - Email: (mailto:ah.jahangiry@gmail.com)
 
