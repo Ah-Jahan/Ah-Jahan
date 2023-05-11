@@ -24,9 +24,12 @@
 </p>
 
 #### <h3 align="left">Languages:</h3>    
-  #  <p> Persian </p>
-  #  <p> German  ,Level: B1 </p>
-  #  <p> English ,Level: A1 </p>
+  <p align="left"> 
+     <image src="https://img.shields.io/badge/Persian-239120?&style=for-the-badge&logo=Persian&logoColor=white" />
+     <image src="https://img.shields.io/badge/HTML-239120?&style=for-the-badge&logo=HTML5&logoColor=white" />
+     <image src="https://img.shields.io/badge/HTML-239120?&style=for-the-badge&logo=HTML5&logoColor=white" />
+    </p>
+
     
 
 ### Sozialmedia :
