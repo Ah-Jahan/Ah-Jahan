@@ -26,8 +26,9 @@
 #### <h3 align="left">Languages:</h3>    
   <p align="left"> 
      <image src="https://img.shields.io/badge/Persian-239120?&style=for-the-badge&logo=Persian&logoColor=white" />
-    <image src="https://img.shields.io/badge/German-F7DF1E?style=for-the-badge&logo=German&logoColor=black">
-     <image src="https://img.shields.io/badge/HTML-239120?&style=for-the-badge&logo=HTML5&logoColor=white" />
+    <image src="https://img.shields.io/badge/German-239120?&style=for-the-badge&logo=German&logoColor=white" />
+    
+     <image src="https://img.shields.io/badge/HTML-239120?&style=for-the-badge&logo=English level: A1 &logoColor=white" />
     </p>
 
     
