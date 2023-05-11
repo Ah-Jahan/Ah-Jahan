@@ -26,7 +26,7 @@ I am working with different frameworks.
 </p>
 
 ### Sozialmedia link:
-    <a href"https://www.linkedin.com">Linkedln</a>
+    <h3><a href"https://www.linkedin.com">Linkedln</a> </h3>
 
 ### Contact me:
 
