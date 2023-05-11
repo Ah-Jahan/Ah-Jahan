@@ -24,9 +24,9 @@
 </p>
 
 #### <h3 align="left">Languages:</h3>    
-    <p> Persian </p>
-    <p> German  ,Level: B1 </p>
-    <p> English ,Level: A1 </p>
+  #  <p> Persian </p>
+  #  <p> German  ,Level: B1 </p>
+  #  <p> English ,Level: A1 </p>
     
 
 ### Sozialmedia :
