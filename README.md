@@ -5,8 +5,6 @@
 
 Hi there, I'm **Ahmad Jahangiry**, a **Frontend Web Developer**.
 
-I am working with different frameworks.
-
 ### Talking about Personal Stuffs:
 
 - 👨🏽‍💻 I'm currently doing a Web Development Bootcamp at [Digital Career Institute](https://digitalcareerinstitute.org/); 
@@ -26,7 +24,12 @@ I am working with different frameworks.
 </p>
 
 ### Sozialmedia link:
-    <h3><a href"https://www.linkedin.com">Linkedln</a> </h3>
+    <h3>
+  <a href="https://www.linkedin.com">
+    <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="LinkedIn" width="30" height="30">
+  </a>
+</h3>
+
 
 ### Contact me:
 
