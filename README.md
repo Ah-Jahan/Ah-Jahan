@@ -31,5 +31,5 @@ I am working with different frameworks.
 ### Contact me:
 
 - 
-- Email: [![Email](https://img.shields.io/badge/ah.jahangiry@gmail.com-6001D2?style=flat-square&logo=gmail!&logoColor=white)](mailto:ah.jahangiry@gmail.com)
+- Email: (mailto:ah.jahangiry@gmail.com)
 
