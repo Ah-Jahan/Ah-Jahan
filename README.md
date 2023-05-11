@@ -11,7 +11,7 @@
 - 🌱 I'm currently learning **Html , Css , Javascript, React, Material UI**
 
 
-#### <h3 align="left">Languages and Tools:</h3>
+#### <h3 align="left">ProgramingLanguages & Tools:</h3>
 <p align="left"> 
   <image src="https://img.shields.io/badge/HTML-239120?&style=for-the-badge&logo=HTML5&logoColor=white" />
   <image src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
@@ -26,7 +26,7 @@
 #### <h3 align="left">Languages:</h3>    
   <p align="left"> 
      <image src="https://img.shields.io/badge/Persian-239120?&style=for-the-badge&logo=Persian&logoColor=white" />
-     <image src="https://img.shields.io/badge/HTML-239120?&style=for-the-badge&logo=HTML5&logoColor=white" />
+    <image src="https://img.shields.io/badge/German-F7DF1E?style=for-the-badge&logo=German&logoColor=black">
      <image src="https://img.shields.io/badge/HTML-239120?&style=for-the-badge&logo=HTML5&logoColor=white" />
     </p>
 
