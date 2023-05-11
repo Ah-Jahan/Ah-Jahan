@@ -1,9 +1,9 @@
 
 ![me](https://github.com/ahmadaad62/ahmadaad62/raw/master/assets/me.gif)
 
-## Hey 👋, I'm Ahmad
+## Hi 👋, I'm Ahmad
 
-Hi there, I'm **Ahmad Jahangiry**, a **Frontend Web Developer**.
+ **Ahmad Jahangiry**, a **Frontend Web Developer**.
 
 ### Talking about Personal Stuffs:
 
@@ -22,6 +22,12 @@ Hi there, I'm **Ahmad Jahangiry**, a **Frontend Web Developer**.
   <image src="https://img.shields.io/badge/NPX-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">
   <image src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">
 </p>
+
+#### <h3 align="left">Languages:</h3>    
+    <p> Persian </p>
+    <p> German  ,Level: B1 </p>
+    <p> English ,Level: A1 </p>
+    
 
 ### Sozialmedia :
   
