@@ -28,8 +28,6 @@
      <image src="https://img.shields.io/badge/Persian-239120?&style=for-the-badge&logo=Persian&logoColor=white" />
     <image src="https://img.shields.io/badge/German-239120?&style=for-the-badge&logo=German&logoColor=white" />
     
-     <image src="https://img.shields.io/badge/English-239120?&style=for-the-badge&logo=Englishlevel:A1&logoColor=white" />
-    </p>
 
     
 
